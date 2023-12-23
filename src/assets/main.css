@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.centerbox {
+    margin: 0 auto;
+}
+
+.smallhr {
+    border-top-width: 0.01em !important;
+}
