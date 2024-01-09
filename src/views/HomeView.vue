@@ -22,9 +22,9 @@ onMounted(() => {
           <p>
             Flint is a tiny, open-source modloader system, aimed at players playing on Vanilla and Plugin Servers, like Spigot/Paper etc. This is <b>NOT</b> a replacement for Fabric, Quilt, NeoForge or Forge, and will not allow you to run mods made for any of them. Flint has it's own API for mods. <br /><br />
             Flint is a hobby/learning project, and is not intended to replace any other modloader out there, and will not allow you to run a server. If you feel this project is stupid and should die, don't use it. Better modloaders with better mods exist. <br /><br />
-            If there is ever enough interest in this project, it will be continuously be developed and improved on, and may possibly get a compatibility layer for SOME fabric client side mods. <br /><br />
+            If there is ever enough interest in this project, it will be continuously developed and improved on, and may possibly get a compatibility layer for SOME fabric client side mods. <br /><br />
 
-            Any developers potentially interested in developing for this loader, you are free to do so, and ask for help in our Discord. You can also check out the <a href='https://github.com/Flintloader-Modules'>UNOFFICIAL DEMO MODULES</a> repository for some insight into how flint development works.
+            Any developers potentially interested in developing for this loader, you are free to do so, and can ask for help in our Discord. You can also check out the <a href='https://github.com/Flintloader-Modules'>UNOFFICIAL DEMO MODULES</a> repository for some insight into how flint development works.
           </p>
         </div>
 
